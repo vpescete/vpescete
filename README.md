@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @vpescete (Valerio)
 - 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Python, Unix, Virtual machines
+- ⌨️ I’m currently learning C, Python, Unix, Virtual machines
 - 📫 Reach me -> vpescete@student.42roma.it
 
 <div align="center">
