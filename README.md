@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>My stats</h2>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/stats?cursusId=21&coalitionId=126" alt="vpescete's 42 stats" /></a>
+<a href="https://github.com/vpescete"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/stats?cursusId=21&coalitionId=126" alt="vpescete's 42 stats" /></a>
  <br></br>
  <h2> ✅ 42 ProjectScore Badge! </h2>
  <br>Libft <a href="https://github.com/vpescete/libft"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2935326" alt="vpescete's 42 Libft Score" /></a></br>
