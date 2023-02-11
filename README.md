@@ -10,7 +10,7 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/stats?cursusId=21&coalitionId=126" alt="vpescete's 42 stats" /></a>
  <br></br>
  <h2> ✅ 42 ProjectScore Badge! </h2>
- <br>Libft <a href="https://github.com/vpescete/libft>Libft"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2935326" alt="vpescete's 42 Libft Score" /></a></br>
+ <br>Libft <a href="https://github.com/vpescete/libft"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2935326" alt="vpescete's 42 Libft Score" /></a></br>
  <br>Born2beroot <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2941095" alt="vpescete's 42 Born2beroot Score" /></a></br>
  <br>Get_next_line <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2939042" alt="vpescete's 42 get_next_line Score" /></a></br>
  <br>ft_printf <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2939030" alt="vpescete's 42 ft_printf Score" /></a></br>
