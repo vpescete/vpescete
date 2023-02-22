@@ -1,8 +1,10 @@
  Hi there 👋
 
 - 👋 Hi, I’m @vpescete (Valerio)
+- 👨‍🎓 I'm currently student at Roma Tre University - Economics & Big Data Bachelor
 - 🖥 I’m currently student at 42Roma Luiss
 - ⌨️ I’m currently learning C, Python, Unix, Virtual machines
+- 👀 I’m interested in web dev, app dev and a lot of things more
 - 📫 Reach me -> vpescete@student.42roma.it
 
 <div align="center">
