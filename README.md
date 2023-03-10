@@ -19,5 +19,6 @@
  <br>Minitalk <a href="https://github.com/vpescete/minitalk"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2973643" alt="vpescete's 42 minitalk Score" /></a></br>
  <br>so_long <a href="https://github.com/vpescete/so-long"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2958059" alt="vpescete's 42 so_long Score" /></a></br>
  <br>Push_swap <a href="https://github.com/vpescete/push_swap"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2978623" alt="vpescete's 42 push_swap Score" /></a></br>
+ <br>Philosopers <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/2994866" alt="vpescete's 42 Philosophers Score" /></a></br>
  
 </div>
