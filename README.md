@@ -24,5 +24,8 @@
  <br>Minishell <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/3023773" alt="vpescete's 42 minishell Score" /></a></br>
  <br>Exam Rank-03 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/3035001" alt="vpescete's 42 Exam Rank 03 Score" /></a> </br>
  <br>Net Practice <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/3141595" alt="vpescete's 42 NetPractice Score" /></a> </br>
+ <br>CPP Module 04 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/3154483" alt="vpescete's 42 CPP Module 04 Score" /></a> </br>
+ <br>Exam Rank-04 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle014ttn00970fml7jqmcijk/project/3154530" alt="vpescete's 42 Exam Rank 04 Score" /></a> </br>
+
  
 </div>
