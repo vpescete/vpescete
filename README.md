@@ -27,7 +27,7 @@
 <div align="center">
  <h1>My stats</h2>
  <br></br>
- <h2> ✅ 42 ProjectScore Badge! </h2>
+ <h2> ✅ 42 Project Score! </h2>
  <br>Libft - 125</br>
  <br>Born2beroot - 125</br>
  <br>Get_next_line - 125</br>
