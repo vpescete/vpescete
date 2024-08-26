@@ -37,7 +37,7 @@
  <br>Push_swap - 125</br>
  <br>Philosopers - 125</br>
  <br>Minishell - 125</br>
- <br>Cub3D - 100</br>
+ <br>Cub3D - 115</br>
  <br>Net Practice - 100</br>
  <br>CPP Module 04 - 100</br>
  <br>CPP Module 09 - 100</br>
