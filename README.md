@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @vpescete (Valerio)
-- 👨‍🎓 I'm currently student at Roma Tre University - Economics & Big Data Bachelor
-- 🖥 I’m currently student at 42Roma Luiss
-- 🔭 I’m currently working at **42Roma Luiss**
-- ⌨️ I’m currently learning C, Python, Unix, Virtual machines
-- 👀 I’m interested in web dev, app dev and a lot of things more
+- 🖥 I was a student at 42Roma Luiss
+- 🔭 I’m currently working at **Seedble**
+- 👀 I’m interested in software development & Innovation 
 - 📫 Reach me -> vpescete@student.42roma.it
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpescete&label=Profile%20views&color=0e75b6&style=flat" alt="vpescete" /> </p>
