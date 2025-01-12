@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpescete (Valerio)
 - 🖥 I was a student at 42Roma Luiss
-- 🔭 I’m currently working at **Seedble**
+- 🔭 I’m currently working as Innovation Specialist @**Seedble** 
 - 👀 I’m interested in software development & Innovation 
 - 📫 Reach me -> vpescete@student.42roma.it
 
